@@ -8,6 +8,6 @@ def fizbuzz(num)
   elsif num % 15 == 0
     return "FizzBuzz"
   else
-    return nil
+    return "foo"
   end
 end
